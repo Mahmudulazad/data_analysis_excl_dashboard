@@ -34,4 +34,4 @@ It highlights key health insights such as patient demographics, area-wise dengue
 4.	Explore the interactive dashboard
 
 # 📸 Dashboard Preview
-! [https://github.com/Mahmudulazad/data_analysis_excl_dashboard/blob/main/project%20dengue%20xl.jpg]
+! [(https://github.com/Mahmudulazad/data_analysis_excl_dashboard/blob/main/project%20dengue%20xl.jpg)]
