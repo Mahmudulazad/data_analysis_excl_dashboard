@@ -34,7 +34,7 @@ It highlights key health insights such as patient demographics, area-wise dengue
 4.	Explore the interactive dashboard
 
 # 📸 Dashboard Preview
-- <a href="https://github.com/Mahmudulazad/data_analysis_excl_dashboard/blob/main/project%20dengue%20xl.jpg">Dashboard</a>
+![Dashboard](https://github.com/Mahmudulazad/data_analysis_excl_dashboard/blob/main/project%20dengue%20xl.jpg)
 
 #  Tools & Skills Used
 -	Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Conditional Formatting)
