@@ -34,4 +34,24 @@ It highlights key health insights such as patient demographics, area-wise dengue
 4.	Explore the interactive dashboard
 
 # 📸 Dashboard Preview
-! [(https://github.com/Mahmudulazad/data_analysis_excl_dashboard/blob/main/project%20dengue%20xl.jpg)]
+- <a href="https://github.com/Mahmudulazad/data_analysis_excl_dashboard/blob/main/project%20dengue%20xl.jpg">Dashboard</a>
+
+#  Tools & Skills Used
+-	Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Conditional Formatting)
+-	Data Cleaning & Transformation
+- Dashboard Design & Visualization
+- Public Health Data Analysis
+
+# 🔍 Project Insights
+- Patient Overview: Out of 1000 patients, 533 were dengue positive.
+- Gender Distribution: Female patients (281) slightly outnumber male patients (252).
+- Age Risk: Middle-aged individuals (38–47 years) represent the highest dengue risk group (47%), followed by older adults (31%).
+- Area Analysis:
+o	Undeveloped areas report consistently higher dengue cases compared to developed areas.
+o	Housing type matters: tin-shed and poorly built houses show higher dengue incidence.
+•	Top High-Risk Areas: Jatrabari, Demra, and Bangshal report the highest number of dengue cases.
+•	Diagnostic Markers: IgG and NS1 markers are most frequently detected, showing variations in diagnostic testing.
+
+# ✅ Conclusion
+Overall, the dashboard demonstrates how Excel can be used for effective public health data analysis, enabling decision-makers to identify risk factors and focus prevention strategies.
+
